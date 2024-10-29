@@ -1,4 +1,4 @@
-![Arpita's Banner](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/433846iEBEA0B9B7E66CCF1/image-size/large?v=v2&px=999) <!-- Add a custom banner image link here -->
+![Arpita's Banner](https://user-images.githubusercontent.com/124692695/224404770-c56e7d9a-2065-4244-844b-94d269a2a970.gif)) <!-- Add a custom banner image link here -->
 
 # Hi, I'm Arpita Rajendra Sathe! 👋  
 ### Data Analyst | SQL | Python | Power BI  
