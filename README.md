@@ -26,11 +26,11 @@ I’m a **Data Analyst** skilled in transforming complex datasets into clear, ac
 
 ## 🌟 Featured Projects
 
-### 1. **[Airbnb European Cities Analysis](https://github.com/AlpanaSahu11/EU_Airbnb_price_analysis)**
+### 1. **[Airbnb European Cities Analysis](https://github.com/arpitasathe/EU_Airbnb_price_analysis.git)**
 > **Tech Stack**: Python, SQL, Power BI  
 > Analyzed European city accommodation data to create a **dashboard** offering insights into pricing trends. Focused on data accuracy and clarity to support decision-making.
 
-### 2. **[India EV Market Segmentation](https://github.com/devanjali2117/EV-Market-Segmentation-Analysis)**  
+### 2. **[India EV Market Segmentation](https://github.com/arpitasathe/EV-Market-Segmentation-Analysis.git)**  
 > **Tech Stack**: Python, Streamlit, pandas, Matplotlib  
 > Built a **Streamlit dashboard** analyzing **EV adoption trends in India** from 2001-2024, incorporating forecasting models to deliver strategic insights.
 
