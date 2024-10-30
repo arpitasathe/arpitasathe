@@ -1,4 +1,4 @@
-![Arpita's Banner](https://user-images.githubusercontent.com/124692695/224404770-c56e7d9a-2065-4244-844b-94d269a2a970.gif)) <!-- Add a custom banner image link here -->
+![Arpita's Banner](https://user-images.githubusercontent.com/124692695/224404770-c56e7d9a-2065-4244-844b-94d269a2a970.gif)
 
 # Hi, I'm Arpita Rajendra Sathe! 👋  
 ### Data Analyst | SQL | Python | Power BI  
@@ -14,13 +14,14 @@ I’m a **Data Analyst** skilled in transforming complex datasets into clear, ac
 - 🛠️ **Technical Skills**: SQL, Power BI, Python, Excel
 
 ---
-
+[![Resume](https://img.shields.io/badge/-Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=671e2a206f511f3183e9a894)
 ## 🛠️ Skills and Tools
 
 ![SQL](https://img.shields.io/badge/SQL-3178C6?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 ---
 
